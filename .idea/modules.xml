@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkScalaGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkScalaGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkScalaGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkScalaGradle_main.iml" group="SparkScalaGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkScalaGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkScalaGradle_test.iml" group="SparkScalaGradle" />
+    </modules>
+  </component>
+</project>
